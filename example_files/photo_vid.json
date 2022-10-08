@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "attachments": {
+        "media_keys": [
+          "7_1577802550438395904",
+          "3_1577802550455242752",
+          "3_1577802550438502401"
+        ]
+      },
+      "edit_history_tweet_ids": ["1577802614384861186"],
+      "id": "1577802614384861186",
+      "text": "@lilcoots https://t.co/ZF3wmC269R https://t.co/vKVfMvTBHa"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "media_key": "7_1577802550438395904",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1577802550438395904/pu/vid/480x852/qDwa1T06gQ6rMIZg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1577802550438395904/pu/vid/320x568/vHRgdzp2H2bnN-ti.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1577802550438395904/pu/vid/720x1280/1Mv5avM_ci32aXyF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1577802550438395904/pu/pl/pX7sq_e1IJYFAdm7.m3u8?tag=12&container=fmp4"
+          }
+        ],
+        "duration_ms": 5005,
+        "public_metrics": { "view_count": 29 },
+        "height": 1280,
+        "type": "video",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1577802550438395904/pu/img/sM_BVQkMXOB77yDt.jpg",
+        "width": 720
+      },
+      {
+        "media_key": "3_1577802550455242752",
+        "url": "https://pbs.twimg.com/media/FeV7D2GXEAAGutR.jpg",
+        "height": 1536,
+        "type": "photo",
+        "width": 2048
+      },
+      {
+        "media_key": "3_1577802550438502401",
+        "url": "https://pbs.twimg.com/media/FeV7D2CXoAEG9nR.jpg",
+        "height": 2048,
+        "type": "photo",
+        "width": 1536
+      }
+    ]
+  }
+}

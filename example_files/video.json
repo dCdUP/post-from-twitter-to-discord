@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "attachments": { "media_keys": ["7_1565410813195739140"] },
+      "id": "1565410849665187840",
+      "text": "Honestly I enjoy having a large cat because I can’t lose her in the house or accidentally step on her or anything https://t.co/9CTlt16buJ"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "type": "video",
+        "height": 1280,
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1565410813195739140/pu/pl/EfO3oxjF4gpbXs-I.m3u8?tag=12&container=fmp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1565410813195739140/pu/vid/720x1280/If-CQDBWw6F-D3Yb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1565410813195739140/pu/vid/320x568/uwFAGLkgriabo_i0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1565410813195739140/pu/vid/480x852/F4VgKQETANv4mNBb.mp4?tag=12"
+          }
+        ],
+        "duration_ms": 4093,
+        "width": 720,
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1565410813195739140/pu/img/3zACyTav4_l22yrC.jpg",
+        "public_metrics": { "view_count": 62696 },
+        "media_key": "7_1565410813195739140"
+      }
+    ]
+  }
+}

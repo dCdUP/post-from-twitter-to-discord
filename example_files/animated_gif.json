@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "attachments": { "media_keys": ["16_1565492279686610944"] },
+      "id": "1565492296535121920",
+      "text": "https://t.co/VHGP6itO4h"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Fbm-7x1WQAAK9qd.jpg",
+        "width": 640,
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Fbm-7x1WQAAK9qd.mp4"
+          }
+        ],
+        "media_key": "16_1565492279686610944",
+        "height": 854
+      }
+    ]
+  }
+}
